@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">appCatalogo</string>
+    <string name="descricao_imagem">imagem do produto</string>
+    <string name="nome_produto">nome do produto</string>
+    <string name="preco_produto">$00,00</string>
+
+    <string name="menu_eletronicos">eletrônicos</string>
+    <string name="menu_roupas">roupas</string>
+    <string name="menu_livros">livros</string>
+</resources>
